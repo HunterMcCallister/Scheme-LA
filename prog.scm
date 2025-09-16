@@ -1,4 +1,4 @@
-#!/opt/homebrew/bin/guile -s
+#!/usr/bin/env -S guile -s
 !#
 ;; CS354 Language Assignment #1
 ;; Author: Hunter McCallister
