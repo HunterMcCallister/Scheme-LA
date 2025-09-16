@@ -1,1 +1,3 @@
-(super-duper)
+; (super-duper)
+(display "Hello, World!")
+(newline)
