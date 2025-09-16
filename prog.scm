@@ -1,3 +1,5 @@
+#!/opt/homebrew/bin/guile -s
+!#
 ;; CS354 Language Assignment #1
 ;; Author: Hunter McCallister
 ;; Description: uses recursive function super-duper that takes a list and a count adn returns
